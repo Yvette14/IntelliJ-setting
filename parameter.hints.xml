@@ -1,0 +1,9 @@
+<application>
+  <component name="ParameterNameHintsSettings">
+    <blacklists>
+      <blacklist language="TypeScript">
+        <added pattern="_.LoDashExplicitWrapperBase.find(predicate,fromIndex)" />
+      </blacklist>
+    </blacklists>
+  </component>
+</application>
