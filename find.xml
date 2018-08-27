@@ -8,37 +8,14 @@
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <option name="FILE_MASK" value="*.java" />
-    <recentFileMasks>
-      <mask>*.y</mask>
-      <mask>*</mask>
-      <mask>*.h</mask>
-      <mask>*.html</mask>
-      <mask>*.htm</mask>
-      <mask>*.ht</mask>
-      <mask>*.c</mask>
-      <mask>*.scss</mask>
-      <mask>*.scs</mask>
-      <mask>*.sc</mask>
-      <mask>*.sjs</mask>
-      <mask>*.spjs</mask>
-      <mask>*.spejs</mask>
-      <mask>*.specjs</mask>
-      <mask>*.spec.js</mask>
-      <mask>*.\js</mask>
-      <mask>*.ajva</mask>
-      <mask>*.ajv</mask>
-      <mask>*.aj</mask>
-      <mask>*.a</mask>
-      <mask>*.s</mask>
-      <mask>*.k</mask>
-      <mask>*.ts</mask>
-      <mask>*.ja</mask>
-      <mask>*.jav</mask>
-      <mask>*.t</mask>
-      <mask>*.</mask>
-      <mask>*.j</mask>
-      <mask>*.js</mask>
-      <mask>*.java</mask>
-    </recentFileMasks>
+    <mask>*.properties</mask>
+    <mask>*.html</mask>
+    <mask>*.jsp</mask>
+    <mask>*.xml</mask>
+    <mask>*.js</mask>
+    <mask>*.as</mask>
+    <mask>*.css</mask>
+    <mask>*.mxml</mask>
+    <mask>*.java</mask>
   </component>
 </application>
