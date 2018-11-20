@@ -1,9 +1,9 @@
-<code_scheme name="Default">
+<code_scheme name="Default" version="173">
   <codeStyleSettings language="JAVA">
-    <option name="ALIGN_MULTILINE_CHAINED_METHODS" value="true" />
-    <option name="ALIGN_MULTILINE_PARAMETERS_IN_CALLS" value="true" />
-    <option name="ALIGN_SUBSEQUENT_SIMPLE_METHODS" value="true" />
+    <option name="KEEP_LINE_BREAKS" value="false" />
+    <option name="KEEP_CONTROL_STATEMENT_IN_ONE_LINE" value="false" />
     <indentOptions>
+      <option name="CONTINUATION_INDENT_SIZE" value="4" />
       <option name="USE_RELATIVE_INDENTS" value="true" />
     </indentOptions>
   </codeStyleSettings>
