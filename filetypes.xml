@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="V2018_12_03_10_30_00__Modify_Procedure_To_Update_Empty_Evaluation_User_Id.sql" type="Native" />
       <mapping pattern="group-column-cell" type="PLAIN_TEXT" />
       <mapping pattern="V2017_09_27_20_21__Create_User_Table.sql" type="PLAIN_TEXT" />
     </extensionMap>
