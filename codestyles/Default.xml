@@ -3,6 +3,7 @@
     <option name="KEEP_LINE_BREAKS" value="false" />
     <option name="KEEP_CONTROL_STATEMENT_IN_ONE_LINE" value="false" />
     <option name="ALIGN_MULTILINE_CHAINED_METHODS" value="true" />
+    <option name="METHOD_CALL_CHAIN_WRAP" value="5" />
     <indentOptions>
       <option name="CONTINUATION_INDENT_SIZE" value="4" />
       <option name="USE_RELATIVE_INDENTS" value="true" />
